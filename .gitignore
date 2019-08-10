@@ -1,5 +1,7 @@
 *.dat
 *.log
+*.ini
+*.properties
 
 .minecraft/asm/*
 .minecarft/backups/*
@@ -21,3 +23,8 @@
 
 .minecarft/options.txt
 .minecraft/usernamecache.json
+.minecraft/config/NEI/client.cfg
+.minecraft/config/InvTweaks.cfg
+.minecraft/config/iChunUtil.cfg
+.minecraft/config/DIAdvancedCompatibility.cfg
+instance.cfg
