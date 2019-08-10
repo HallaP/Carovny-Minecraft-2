@@ -1,8 +1,7 @@
 *
 
 !.gitignore
-!.minecraft/mods/*
-!.minecraft/coremods/*
+!*.jar
 !.minecraft/config/*
 !.minecraft/scripts/*
 !.minecraft/resources/*
