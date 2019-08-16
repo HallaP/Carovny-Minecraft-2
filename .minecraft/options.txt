@@ -95,7 +95,7 @@ key_MPM 2:45
 key_MPM 3:46
 key_MPM 4:47
 key_MPM 5:48
-key_Baubles Inventory:48
+key_Baubles Inventory:22
 key_keys.adventureBackpack.openBackpackInventory:48
 key_keys.adventureBackpack.switchHoseTank:49
 key_bbw.key.mode:50
